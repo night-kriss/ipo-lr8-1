@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Минск",
+        "country": "Беларусь",
+        "is_big": true,
+        "people_count": 2000000
+    },
+    {
+        "id": 2,
+        "name": "Москва",
+        "country": "Россия",
+        "is_big": true,
+        "people_count": 12500000
+    },
+    {
+        "id": 3,
+        "name": "Киев",
+        "country": "Украина",
+        "is_big": true,
+        "people_count": 2800000
+    },
+    {
+        "id": 4,
+        "name": "Вильнюс",
+        "country": "Литва",
+        "is_big": false,
+        "people_count": 500000
+    },
+    {
+        "id": 5,
+        "name": "Рига",
+        "country": "Латвия",
+        "is_big": false,
+        "people_count": 700000
+    },
+    {
+        "id": 1,
+        "name": "vbycr",
+        "country": "киев",
+        "is_big": false,
+        "people_count": 577
+    }
+]
